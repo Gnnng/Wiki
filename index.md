@@ -1,2 +1,3 @@
-这里是 Wiki，这个页面仍然在建设中。
+# Gnnng’s Wiki
 
+Under construction 🔨
