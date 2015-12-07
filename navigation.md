@@ -10,8 +10,8 @@
 
 [Blogs]()
 
-- [GeeField](Gnnng.github.io)
-- [Wiki](wiki.GeePlanet.com)
+- [GeeField](http://Gnnng.github.io)
+- [Wiki](http://wiki.GeePlanet.com)
 
 
 
