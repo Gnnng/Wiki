@@ -7,9 +7,9 @@ Vim
 
 > 以下命令均可加 `no` 前缀来禁用
 
-- set foldenable: 启用缩进
-- set hlsearch: 启用搜索高亮
-- set number/nu: 启用行号
+- `set foldenable`: 启用缩进
+- `set hlsearch`: 启用搜索高亮
+- `set number`: 启用行号
 
 命令
 ----

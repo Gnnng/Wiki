@@ -13,7 +13,10 @@
 - [GeeField](http://Gnnng.github.io)
 - [Wiki](http://wiki.GeePlanet.com)
 
+[Help]()
 
+- # About MDWiki
+- [MDWiki Quick Start](mdwikiquickstart.md)
 
 [gimmick:theme](readable)
 
