@@ -6,11 +6,12 @@
 - [iPad](ipad.md)
 - [Mac](mac.md)
 
+[Vim](vim.md)
+
 [Blogs]()
 
-- [GeePlanet](geeplanet.md)
-- [GeeField](geefield.md)
-- [Wiki]()
+- [GeeField](Gnnng.github.io)
+- [Wiki](wiki.GeePlanet.com)
 
 
 
