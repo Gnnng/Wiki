@@ -1,22 +1,24 @@
 # Gnnng’s Wiki
 
-[iDevices]()
+[Devices]()
 
 - [iPhone](iphone.md)
 - [iPad](ipad.md)
 - [Mac](mac.md)
-
-[Vim](vim.md)
 
 [Blogs]()
 
 - [GeeField](http://Gnnng.github.io)
 - [Wiki](http://wiki.GeePlanet.com)
 
+[Vim](vim.md)
+
+[Git](git.md)
+
 [Help]()
 
-- # About MDWiki
 - [MDWiki Quick Start](mdwikiquickstart.md)
+- [How to use](howtouse.md)
 
 [gimmick:theme](readable)
 
