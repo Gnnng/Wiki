@@ -5,8 +5,8 @@ iPad
 
 ## Apps
 
-| App | Reason |
-|:---------------------:|:-------------|
+| Application | Reason |
+|:---------------------|:-------------|
 | GoodReader            | 很好的 PDF 阅读软件|
 | Kindle                | 不多说 |
 | VTT                   | Virtual Table Tenis, 可以分屏对打 |

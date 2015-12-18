@@ -11,6 +11,8 @@
 
 [Git](git.md)
 
+[Chrome](chrome.md)
+
 [Guide]()
 
 - [MDWiki Quick Start](mdwikiquickstart.md)
