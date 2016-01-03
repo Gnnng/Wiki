@@ -1,11 +1,20 @@
 iPhone
 =====
 
+# Details
+
+- iPhone 5S A1528
+- iOS 8.4.1
+
+
 # Appstore Apps
 
 - **Drafts 4**, markdown editor, dropbox sync, custom actions and web capture in Safari
 - **Scannable**, a replacement for a real scanner, fast scan speed
 - **Reeder**, a  RSS reader, fantastic and perfect
+
+see more on [Appshopper: Gnnng's Apps](http://appshopper.com/user/Gnnng) *(You may need a proxy to acess this)*
+
 
 # 越狱插件 / Jailbreak Tweaks
 目前使用的插件列表，通过 `dpkg -l | grep ii` 列出，并且去掉一些不是手动安装的包，或是被依赖的包
