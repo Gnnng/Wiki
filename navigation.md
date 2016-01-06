@@ -14,6 +14,8 @@
 
 [Git](git.md)
 
+[Homebrew](homebrew.md)
+
 [Chrome](chrome.md)
 
 [Guide]()
