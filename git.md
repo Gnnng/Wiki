@@ -10,7 +10,10 @@ Git
 
 ## Commit Message Formatting
 
-> This formatting comes from "Angular JS Git Commit Message Conventions" ([link](https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit#))
+> This formatting comes from "Angular JS Git Commit Message Conventions" 
+> ([link](https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit#))
+>
+> PS: 对于纯博客的内容，直接使用 `docs`
 
 Pattern:
 
