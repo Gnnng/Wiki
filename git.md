@@ -1,7 +1,8 @@
 Git
 =====
 
-## MFU (Most Frequently Used) Commands
+
+## Commands
 
 - 提交文件中的部分代码: `git add -p [filename]`
 - 更改最后一次的 commit message: `git commit --amend`
@@ -75,6 +76,15 @@ or in case of multiple issues:
 Closes #234, #345, #456
 ```
 
+
+## Git Branching Model
+
+Vincent Driessen's branching model.
+
+see more on [here](http://nvie.com/posts/a-successful-git-branching-model/) and use [git-flow](https://github.com/nvie/gitflow)
+
+
+![](http://nvie.com/img/git-model@2x.png)
 
 
 
