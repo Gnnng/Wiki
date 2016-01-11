@@ -10,6 +10,7 @@ Vim
 - `set foldenable`: 启用缩进
 - `set hlsearch`: 启用搜索高亮
 - `set number`: 启用行号
+- `set colorcolumn=80`: 设置 line ruler 为 80
 
 命令
 ----
@@ -19,6 +20,3 @@ Vim
     - c: 需要确认
 
 
-
-快捷键
------
