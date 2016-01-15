@@ -7,6 +7,7 @@ Git
 - 提交文件中的部分代码: `git add -p [filename]`
 - 更改最后一次的 commit message: `git commit --amend`
 - 修改之前的提交历史: `git rebase -i [SHA-1]`
+- 按指定 date 提交 commit: `git commit --date="Thu Jan 14 20:41:34 2015 +0800"`
 
 ## Commit Message Formatting
 
