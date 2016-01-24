@@ -16,7 +16,23 @@ Vim
 ----
 
 - `%s/foo/bar/gc`
-    - g: 全局
-    - c: 需要确认
+    - `%`:指定搜索范围为全文
+    - `g`: 全局
+    - `c`: 需要确认
 
+YouCompleteMe
+------
+
+更新之后需要重新编译
+
+```
+cd ~/.vim/bundle/YouCompleteMe
+./install.py --clang-completer --gocode-completer  --tern-completer
+```
+
+参数分别为:
+
+- `clang-completer`: C-family language support
+- `gocode-complter`: Golang support
+- `tern-complter`: Nodejs support
 
