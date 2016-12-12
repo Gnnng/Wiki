@@ -1,8 +1,3 @@
-# Gnnng's Wiki
+# Wiki
 
-个人 Wiki，存放资料
-
-## MDWiki
-
-使用了这个 single page applicaton， --> [MDWiki](https://github.com/Dynalon/mdwiki)
-
+Wiki repo using [MDwiki](http://dynalon.github.io/mdwiki).
