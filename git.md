@@ -8,6 +8,7 @@ Git
 - 更改最后一次的 commit message: `git commit --amend`
 - 修改之前的提交历史: `git rebase -i [SHA-1]`
 - 按指定 date 提交 commit: `git commit --date="Thu Jan 14 20:41:34 2015 +0800"`
+- 选择指定的 commit 提交到当前分支: `git cherry-pick <SHA1>`
 
 ## Commit Message Formatting
 
