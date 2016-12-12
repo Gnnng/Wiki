@@ -1,3 +1,1 @@
-# Gnnng’s Wiki
-
 🚧

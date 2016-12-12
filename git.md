@@ -12,10 +12,9 @@ Git
 
 ## Commit Message Formatting
 
-> This formatting comes from "Angular JS Git Commit Message Conventions" 
+> This formatting comes from "Angular JS Git Commit Message Conventions"
 > ([link](https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit#))
 >
-> PS: 对于纯博客的内容，直接使用 `docs`
 
 Pattern:
 
@@ -90,7 +89,3 @@ see more on [here](http://nvie.com/posts/a-successful-git-branching-model/) and 
 
 
 ![](http://nvie.com/img/git-model@2x.png)
-
-
-
-
