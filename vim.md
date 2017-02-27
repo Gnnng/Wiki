@@ -1,3 +1,4 @@
+
 Vim
 ======
 
@@ -12,13 +13,17 @@ Vim
 - `set number`: 启用行号
 - `set colorcolumn=80`: 设置 line ruler 为 80
 
+
 命令
 ----
 
-- `%s/foo/bar/gc`
+- `:%s/foo/bar/gc`
     - `%`:指定搜索范围为全文
     - `g`: 全局
     - `c`: 需要确认
+- `:w !sudo tee %` 
+    - `%`:当前文件名
+
 
 YouCompleteMe
 ------
