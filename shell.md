@@ -16,7 +16,7 @@ To change all the files to 644 (`-rw-r--r--`):
 find sampledir -type f -exec chmod 644 {} \;
 ```
 
-`entr`
+entr
 ------
 
 Install via `sudo apt install entr`.
@@ -27,7 +27,7 @@ Watch a directory and compile upon any changes:
 ls -d sampledir/* | entr sh -c "make && make test"
 ```
 
-`autossh`
+autossh
 ---------
 
 Keep ssh session alive. Install via `sudo apt install autossh`
