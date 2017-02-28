@@ -1,6 +1,8 @@
-# Cheatsheet
+Cheatsheet
+=========
 
-## `find`
+`find`
+----------
 
 To change all the directories to 755 (`drwxr-xr-x`):
 
