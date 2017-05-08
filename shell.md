@@ -37,3 +37,12 @@ Better to alias it with:
 ```
 alias assh='autossh -M `python -c "import random; print random.randint(60000, 65000)"`'
 ```
+
+wget
+----------
+
+Download all listed files on a web page (HTTP File Server)
+
+```
+wget --mirror --no-parrent http://yoururl
+```
