@@ -44,5 +44,5 @@ wget
 Download all listed files on a web page (HTTP File Server)
 
 ```
-wget --mirror --no-parrent http://yoururl
+wget --mirror --no-parent http://yoururl
 ```
