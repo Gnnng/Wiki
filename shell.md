@@ -46,3 +46,14 @@ Download all listed files on a web page (HTTP File Server)
 ```
 wget --mirror --no-parent http://yoururl
 ```
+
+tmux
+---------
+
+Attach to a named session, or create one in advance before attaching if none exists
+
+```
+tmux new -As mysession
+```
+
+
